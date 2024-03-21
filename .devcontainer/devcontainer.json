@@ -1,6 +1,7 @@
 {
     // Name this configuration
     "name": "Codespace for Skills!",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-12",
     "customizations": {
         "vscode": {
             "extensions": [
